@@ -20,7 +20,8 @@
 <style lang="less">
 @import './assets/base.less';
 html,
-body{
+body,
+#app{
   height: 100%;
 }
 .wedding{
